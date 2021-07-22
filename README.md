@@ -1,9 +1,9 @@
 # docker
-## 概要
+### 概要
 - python3
 - pytorch
 
-## 実行
+### 実行
 1. イメージの作成
 ```
 sh build.sh
@@ -16,3 +16,5 @@ sh run.sh
 ```
 sh exec.sh
 ```
+### 展望
+- GPUで使えるようにする
