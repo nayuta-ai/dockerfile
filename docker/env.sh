@@ -1,0 +1,4 @@
+export IMAGE_NAME=${USER}_test
+export CONTAINER_NAME=${USER}_test
+export HOST_PORT=5000
+export CONTAINER_PORT=5000
