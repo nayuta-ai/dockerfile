@@ -6,15 +6,15 @@
 ### 実行
 1. イメージの作成
 ```
-sh build.sh
+sh docker/build.sh
 ```
 2. コンテナの作成
 ```
-sh run.sh
+sh docker/run.sh
 ```
 3. コンテナに入る
 ```
-sh exec.sh
+sh docker/exec.sh
 ```
 ### 展望
 - GPUで使えるようにする
